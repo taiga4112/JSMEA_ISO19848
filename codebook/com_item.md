@@ -1,7 +1,7 @@
 | Code  	| Name                 	| Description                                                                                      	|
 |-------	|----------------------	|--------------------------------------------------------------------------------------------------	|
 | T5001 	| Acceleration         	|                                                                                                  	|
-| T5002 	| ActivateNumber       	| Numbver of devices in operation                                                                  	|
+| T5002 	| ActivateNumber       	| Number of devices in operation                                                                  	|
 | T5003 	| ActivePower          	| Active power, electric                                                                           	|
 | T5004 	| AluminaSilicaContent 	| Content of SiO2(silica)/Al2O3(alumina)                                                           	|
 | T5005 	| Amplitude            	|                                                                                                  	|
@@ -20,16 +20,16 @@
 | T5018 	| DeadTime             	| The time when the equipment is not in operation                                                  	|
 | T5019 	| Density              	|                                                                                                  	|
 | T5020 	| Depth                	| Water depth (Depth below keel)                                                                   	|
-| T5021 	| DeviationTemp        	| Deviation from the average of multiple tempreture measurements (Mean, not time average)          	|
-| T5022 	| DiffPress            	| Differential pressure  between lnlet and outlet                                                  	|
+| T5021 	| DeviationTemp        	| Deviation from the average of multiple temperature measurements (Mean, not time average)          	|
+| T5022 	| DiffPress            	| Differential pressure between inlet and outlet                                                  	|
 | T5023 	| Direction            	|                                                                                                  	|
-| T5024 	| Displacement         	| Positional variation, diplacement                                                                	|
+| T5024 	| Displacement         	| Positional variation, displacement                                                                	|
 | T5025 	| Distance             	| Distance traveled                                                                                	|
 | T5026 	| DouglasSeaScale      	|                                                                                                  	|
 | T5027 	| Draft                	| Ship's draft                                                                                     	|
 | T5028 	| FeAll                	| Total iron content                                                                               	|
 | T5029 	| FeMagnetism          	| Magnetic iron powder                                                                             	|
-| T5030 	| FlashPoint           	| Ignistion point temperature                                                                      	|
+| T5030 	| FlashPoint           	| Ignition point temperature                                                                      	|
 | T5031 	| Frequency            	|                                                                                                  	|
 | T5032 	| FuelCommand          	|                                                                                                  	|
 | T5033 	| Heading              	| heading of ship's bow.                                                                           	|
@@ -63,8 +63,8 @@
 | T5061 	| Power                	| Heat, mechanical, electrical output                                                              	|
 | T5062 	| PowerFactor          	|                                                                                                  	|
 | T5063 	| Press                	|                                                                                                  	|
-| T5064 	| ReactivePower        	| Reactice power                                                                                   	|
-| T5065 	| RelativeHumidity     	| Relatice humidity                                                                                	|
+| T5064 	| ReactivePower        	| Reactive power                                                                                   	|
+| T5065 	| RelativeHumidity     	| Relative humidity                                                                                	|
 | T5066 	| ROR                  	| Rudder Order Status                                                                              	|
 | T5067 	| ROT                  	| Rate Of Turn of the ship                                                                         	|
 | T5068 	| RSA                  	| Rudder Sensor Angle                                                                              	|

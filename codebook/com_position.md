@@ -5,7 +5,7 @@
 | T4003 	| AftStarboard     	| Rear right side of the ship towards the ship's heading.                    	|
 | T4004 	| Bow              	| Bow of the ship                                                            	|
 | T4005 	| CCRP             	| Consistent Common Reference Point                                          	|
-| T4006 	| Center           	| Center part between ship's port side and starbord side.                    	|
+| T4006 	| Center           	| Center part between ship's port side and starboard side.                    	|
 | T4007 	| Close            	| Closed position/Closed motion                                              	|
 | T4008 	| DrivingEnd       	| Near side of prime mover/motor                                             	|
 | T4009 	| Forward          	| Front part of the ship                                                     	|

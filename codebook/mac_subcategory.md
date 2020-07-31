@@ -1,7 +1,7 @@
 | Code     	| Name                                         	| Description                                                                                                                    	|
 |----------	|----------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------	|
-| MacT2001 	| AirCooler                                    	| Air cooling devce for the equipment specified in T1. This does not include air conditioner for accomodation area.              	|
-| MacT2002 	| AirCoolerCommon                              	| Air cooling devce commonly used by the equipment specified in T1. This does not include air conditioner for accomodation area. 	|
+| MacT2001 	| AirCooler                                    	| Air cooling device for the equipment specified in T1. This does not include air conditioner for accommodation area.              	|
+| MacT2002 	| AirCoolerCommon                              	| Air cooling device commonly used by the equipment specified in T1. This does not include air conditioner for accommodation area. 	|
 | MacT2003 	| AirHornAirLine                               	| Air line for air horn.                                                                                                         	|
 | MacT2004 	| AuxAirCompressor                             	|                                                                                                                                	|
 | MacT2005 	| AuxBlower                                    	| Blower for supplying air to main engine.                                                                                       	|
@@ -20,7 +20,7 @@
 | MacT2018 	| BurnerFuelOilLine                            	| Fuel supply line to boiler burners,                                                                                            	|
 | MacT2019 	| BypassSideDamperMainEngine                   	| Damper for bypassing T1 equipment for Main Engine (Economizer,etc.).                                                           	|
 | MacT2020 	| BypassSideDamperDieselGeneratorSet           	| Damper for bypassing T1 equipment for Diesel Generator (Economizer,etc.).                                                      	|
-| MacT2021 	| CascadeTank                                  	| Feed water filter tank, which filteres oil and iron content,etc.                                                               	|
+| MacT2021 	| CascadeTank                                  	| Feed water filter tank, which filters oil and iron content,etc.                                                               	|
 | MacT2022 	| CascadeTankFillingLine                       	| Water filling line to Cascade tank.                                                                                            	|
 | MacT2023 	| Compressor                                   	| Air compressor                                                                                                                 	|
 | MacT2024 	| Condenser                                    	| A condenser for boilers, which does not include capacitors (electrical device)                                                 	|
@@ -44,7 +44,7 @@
 | MacT2042 	| DrinkWaterPump                               	|                                                                                                                                	|
 | MacT2043 	| DrivingShaft                                 	|                                                                                                                                	|
 | MacT2044 	| Drum                                         	| Boiler steam drum.                                                                                                             	|
-| MacT2045 	| Engine                                       	| Recipocating engine of internal combusion engine.                                                                              	|
+| MacT2045 	| Engine                                       	| Reciprocating engine of internal combustion engine.                                                                               	|
 | MacT2046 	| EngineRoomExhaustFan                         	|                                                                                                                                	|
 | MacT2047 	| EngineRoomSupplyFan                          	|                                                                                                                                	|
 | MacT2048 	| ExcessSteamDumpValve                         	|                                                                                                                                	|
@@ -56,7 +56,7 @@
 | MacT2054 	| ExhaustValveSpringAir                        	| Compressed air of Pneumatic valve springs for exhaust gas valve.                                                               	|
 | MacT2055 	| ExpansionTank                                	|                                                                                                                                	|
 | MacT2056 	| FeedWaterPump                                	|                                                                                                                                	|
-| MacT2057 	| FeedWaterRegurator                           	|                                                                                                                                	|
+| MacT2057 	| FeedWaterRegulator                           	|                                                                                                                                	|
 | MacT2058 	| FireBilgePump                                	|                                                                                                                                	|
 | MacT2059 	| FireGeneralServiceWaterPump                  	|                                                                                                                                	|
 | MacT2060 	| FireMainLine                                 	|                                                                                                                                	|
@@ -64,7 +64,7 @@
 | MacT2062 	| FreshWaterGenerator                          	|                                                                                                                                	|
 | MacT2063 	| FreshWaterPump                               	|                                                                                                                                	|
 | MacT2064 	| FuelCommand                                  	| Command for changing fuel oil supply rate.                                                                                     	|
-| MacT2065 	| FuelOilBunkerLine                            	| Pipline for bunkering residual fuel oil.                                                                                       	|
+| MacT2065 	| FuelOilBunkerLine                            	| Pipeline for bunkering residual fuel oil.                                                                                       	|
 | MacT2066 	| FuelOilBurningPump                           	|                                                                                                                                	|
 | MacT2067 	| FuelOilCirculatingPumpMainEngine             	|                                                                                                                                	|
 | MacT2068 	| FuelOilCirculatingPumpDieselGeneratorSet     	|                                                                                                                                	|
@@ -98,10 +98,10 @@
 | MacT2096 	| GovernorEndBearing                           	|                                                                                                                                	|
 | MacT2097 	| HeelingPump                                  	| Pump for filling and discharging water into the tank for ship heel control                                                     	|
 | MacT2098 	| HighPressureDrum                             	|                                                                                                                                	|
-| MacT2099 	| HighTempCoolingFreshWaterLine                	| High temperature fresh water system for jacket cooling of diesel eingines.                                                     	|
+| MacT2099 	| HighTempCoolingFreshWaterLine                	| High temperature fresh water system for jacket cooling of diesel engines.                                                     	|
 | MacT2100 	| HighTempCoolingFreshWaterPump                	|                                                                                                                                	|
 | MacT2101 	| HighTempCoolingFreshWaterTempControlValve    	|                                                                                                                                	|
-| MacT2102 	| HighVoltageMainSwtichboard                   	| Switchboard with AC1000V or higher.                                                                                            	|
+| MacT2102 	| HighVoltageMainSwitchboard                   	| Switchboard with AC1000V or higher.                                                                                            	|
 | MacT2103 	| HotWaterCirculatingPump                      	|                                                                                                                                	|
 | MacT2104 	| IntermediateShaftBearing                     	|                                                                                                                                	|
 | MacT2105 	| LowPressureDrum                              	|                                                                                                                                	|
@@ -143,7 +143,7 @@
 | MacT2141 	| ServoOilPump                                 	|                                                                                                                                	|
 | MacT2142 	| ServoOilRail                                 	|                                                                                                                                	|
 | MacT2143 	| ServoOilRailPressureSensor                   	|                                                                                                                                	|
-| MacT2144 	| ShaftSpaceSupplyFan                          	| Ventilaton fan for main shaft space                                                                                            	|
+| MacT2144 	| ShaftSpaceSupplyFan                          	| Ventilation fan for main shaft space                                                                                            	|
 | MacT2145 	| SideDamperMainEngine                         	| Damper which change line to main engine side.                                                                                  	|
 | MacT2146 	| SideDamperDieselGeneratorSet                 	| Damper which change line to diesel generator side.                                                                             	|
 | MacT2147 	| SludgePump                                   	|                                                                                                                                	|
@@ -157,15 +157,15 @@
 | MacT2155 	| SternTube                                    	|                                                                                                                                	|
 | MacT2156 	| SternTubeAirSeal                             	| Air seal that isolates sea and ship at the stern tube                                                                          	|
 | MacT2157 	| SternTubeBearing                             	| Bearing that holds the main shaft in the stern tube                                                                            	|
-| MacT2158 	| SternTubeForwardSealLubOilPump               	| Lublicating oil pump for stern tube forward seal.                                                                              	|
-| MacT2159 	| SternTubeLubOilPump                          	| Lublicating oil pump for stern tube.                                                                                           	|
-| MacT2160 	| SternTubeLubOilTank                          	| Lublicating oil tank for stern tube.                                                                                           	|
+| MacT2158 	| SternTubeForwardSealLubOilPump               	| Lubricating oil pump for stern tube forward seal.                                                                              	|
+| MacT2159 	| SternTubeLubOilPump                          	| Lubricating oil pump for stern tube.                                                                                           	|
+| MacT2160 	| SternTubeLubOilTank                          	| Lubricating oil tank for stern tube.                                                                                           	|
 | MacT2161 	| ThrustBearing                                	|                                                                                                                                	|
-| MacT2162 	| TotalElectric                                	| Total available electric powor on a ship.                                                                                      	|
-| MacT2163 	| Turbine                                      	| Turbine such as steam turbines and turbochagers.                                                                               	|
+| MacT2162 	| TotalElectric                                	| Total available electric power on a ship.                                                                                      	|
+| MacT2163 	| Turbine                                      	| Turbine such as steam turbines and turbochargers.                                                                               	|
 | MacT2164 	| TurboCharger                                 	|                                                                                                                                	|
-| MacT2165 	| TurboChargerLubOilPumpMainEngine             	| Lublicating oil pump for turbo charger of main engine.                                                                         	|
-| MacT2166 	| TurboChargerLubOilPumpDieselGeneratorSet     	| Lublicating oil pump for turbo charger of diesel generator set.                                                                	|
+| MacT2165 	| TurboChargerLubOilPumpMainEngine             	| Lubricating oil pump for turbo charger of main engine.                                                                         	|
+| MacT2166 	| TurboChargerLubOilPumpDieselGeneratorSet     	| Lubricating oil pump for turbo charger of diesel generator set.                                                                	|
 | MacT2167 	| UnderPassageFan                              	|                                                                                                                                	|
 | MacT2168 	| WasteOilTank                                 	|                                                                                                                                	|
 | MacT2169 	| WasteOilTankExhaustFan                       	|                                                                                                                                	|

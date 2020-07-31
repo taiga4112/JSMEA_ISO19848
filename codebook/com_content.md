@@ -9,7 +9,7 @@
 | T3007 	| BoostAir                    	| 4stroke diesel engine intake                                            	|
 | T3008 	| Compression                 	| Compression process                                                     	|
 | T3009 	| CoolingFreshWater           	| Cooling fresh water                                                     	|
-| T3010 	| CoolingSeaWater             	| Searwater for cooling                                                   	|
+| T3010 	| CoolingSeaWater             	| Seawater for cooling                                                   	|
 | T3011 	| CylinderOil                 	|                                                                         	|
 | T3012 	| DieselOil                   	| Distillate fuel oil                                                     	|
 | T3013 	| DistilledWater              	| Distilled water, which does not include water for drinking or cooling   	|
@@ -25,7 +25,7 @@
 | T3023 	| HeavyFuelOil                	| Residual fuel oil                                                       	|
 | T3024 	| Longitudinal                	| Direction parallel to heading                                           	|
 | T3025 	| LowSulphurGasOil            	|                                                                         	|
-| T3026 	| LowSulphurHeavyFuelOil      	| Residual fuel oil with a sulfur conent of 0.5% or less                  	|
+| T3026 	| LowSulphurHeavyFuelOil      	| Residual fuel oil with a sulphur content of 0.5% or less                  	|
 | T3027 	| LubOil                      	| Oil for Lubrication                                                     	|
 | T3028 	| MagneticBearing             	| Magnetic orientation reference                                          	|
 | T3029 	| MaxCombustion               	| Combustion process                                                      	|
@@ -44,13 +44,13 @@
 | T3042 	| Signal                      	|                                                                         	|
 | T3043 	| StatorCoil                  	| Stator coil of rotating machine (including winding)                     	|
 | T3044 	| Steam                       	|                                                                         	|
-| T3045 	| A.1.1.1.2             Surge 	| Movement in the longitudinal directon (heading reference) of the ship   	|
+| T3045 	| A.1.1.1.2             Surge 	| Movement in the longitudinal direction (heading reference) of the ship   	|
 | T3046 	| A.1.1.1.3             Sway  	| Movement in the left right direction (heading reference) of the ship    	|
-| T3047 	| Theoritical                 	| Heading reference (assuming the ship is stationary)                     	|
+| T3047 	| Theoretical                 	| Heading reference (assuming the ship is stationary)                     	|
 | T3048 	| Total                       	|                                                                         	|
 | T3049 	| Transverse                  	| Direction perpendicular to heading                                      	|
 | T3050 	| TrueBearing                 	| True orientation reference                                              	|
 | T3051 	| Vibration                   	|                                                                         	|
 | T3052 	| WasteOil                    	|                                                                         	|
 | T3053 	| Wave                        	|                                                                         	|
-| T3054 	| A.1.1.1.4             Yaw   	| Rotational movement with reference to the vcertical axis of the ship    	|
+| T3054 	| A.1.1.1.4             Yaw   	| Rotational movement with reference to the vertical axis of the ship    	|
