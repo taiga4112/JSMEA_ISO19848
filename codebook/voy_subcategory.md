@@ -5,7 +5,7 @@
 | VoyT2003 	| CountryName         	| Report of country name                                                                	|
 | VoyT2004 	| Course              	| Report of direction of vessel movement, north up.                                     	|
 | VoyT2005 	| DestinationPortName 	| Report of destination port name                                                       	|
-| VoyT2006 	| DieselGeneratorSet  	| Report for regarding generator drived by diesel engine.                               	|
+| VoyT2006 	| DieselGeneratorSet  	| Report for regarding generator driven by diesel engine.                               	|
 | VoyT2007 	| Displacement        	| Report of ship's displacement.                                                        	|
 | VoyT2008 	| Distance            	| Report of Ground distance travelled                                                   	|
 | VoyT2009 	| DistanceRunBy       	| Report of Distance a ship traveled though the water.                                  	|
